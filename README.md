@@ -13,6 +13,6 @@ A lightweight, interactive ToDo list web application built with **HTML**, **CSS*
 
 - HTML5
 - CSS3
-- JavaScript (
+- JavaScript 
 
 
